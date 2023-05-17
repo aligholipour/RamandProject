@@ -3,7 +3,7 @@ Here's a sample project outline that demonstrates generating a JWT, retrieving u
 
 # How to use the database
 
-There are `database tables` and `stored procedures` in the Migration folder. Use the following command to create them.
+To create the `database tables` and `stored procedures` located in the `Migration folder` using `Visual Studio's Package Manager Console`, you can execute the following command:
 ```
 Update-Database
 ```
